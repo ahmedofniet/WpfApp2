@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:WpfApp2"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+         <TextBox HorizontalAlignment="Left" Height="23" Margin="215,134,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
     </Application.Resources>
 </Application>
